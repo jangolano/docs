@@ -1,0 +1,6 @@
+site_name: how-we-work
+site_description: How we work
+plugins:
+  - techdocs-core
+nav:
+  - Getting Started: index.md
