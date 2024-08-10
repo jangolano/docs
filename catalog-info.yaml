@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: how-we-work
   description: The place to find documentation on how we work
+  annotations:
+  backstage.io/techdocs-ref: dir:.
 spec:
   type: documentation
   lifecycle: production
