@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: a-unique-name-for-your-docs
   annotations:
-    backstage.io/techdocs-ref: dir:.
+    backstage.io/techdocs-ref: dir: .
 spec:
   type: documentation
   lifecycle: production
